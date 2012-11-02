@@ -1,0 +1,2 @@
+0.0.1版本
+1. 嵌入JavaFX Scene Builder，支持fxml的可视化编辑
