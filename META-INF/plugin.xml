@@ -21,5 +21,7 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
+        <fileTypeFactory implementation="com.wjc.javafx4idea.fxml.FXMLFileTypeFactory"/>
+        <fileEditorProvider implementation="com.wjc.javafx4idea.fxml.FxmlDesignEditorProvider"/>
     </extensions>
 </idea-plugin>
